@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsClient", "JenkinsClient\JenkinsClient.csproj", "{7E074B0B-3C25-4763-A383-DBB78F98AD5A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsClientTests", "JenkinsClientTests\JenkinsClientTests.csproj", "{0AD2A513-4EED-4C6A-BB54-AD980E1E7F10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{7E074B0B-3C25-4763-A383-DBB78F98AD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E074B0B-3C25-4763-A383-DBB78F98AD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E074B0B-3C25-4763-A383-DBB78F98AD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AD2A513-4EED-4C6A-BB54-AD980E1E7F10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AD2A513-4EED-4C6A-BB54-AD980E1E7F10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AD2A513-4EED-4C6A-BB54-AD980E1E7F10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AD2A513-4EED-4C6A-BB54-AD980E1E7F10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
