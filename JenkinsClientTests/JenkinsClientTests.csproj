@@ -69,6 +69,7 @@
     <Compile Include="GlobalSuppressions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Utilities\ValueConverters\DoubleDefaultConverterTests.cs" />
+    <Compile Include="Utilities\ValueConverters\InverseBooleanConverterTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
